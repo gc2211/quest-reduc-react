@@ -27,6 +27,8 @@ const CounterComponent = ({ counter, incrementByOne, decrementByOne, incrementBy
     </div>
 );
 
+ 
+
 export default connect(
     mapStateToProps,
     mapDispatchToProps
