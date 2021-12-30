@@ -1,6 +1,4 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from "react";
 import CounterComponent from "./counterContainer";
 
 function App() {
